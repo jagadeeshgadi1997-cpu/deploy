@@ -39,7 +39,7 @@ const LoginPage = () => {
         
         {/* Title */}
         <h2 className="text-2xl sm:text-3xl font-bold text-center mb-6">
-         next Login
+         New Login
         </h2>
       
 
