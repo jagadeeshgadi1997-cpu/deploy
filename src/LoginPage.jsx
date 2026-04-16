@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const LoginPage = () => {
-    const x=;
+    const x=10;
   const [form, setForm] = useState({
     email: "",
     password: "",
@@ -41,7 +41,7 @@ const LoginPage = () => {
         <h2 className="text-2xl sm:text-3xl font-bold text-center mb-6">
           Login
         </h2>
-        {const x = ;}
+      
 
         {/* Message */}
         {message && (
